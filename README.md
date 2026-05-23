@@ -31,7 +31,7 @@ Contador de vueltas y puntos para proyectos de tejido (Crochet y Palillo). Permi
 
 <p align="left">
   <img src="docs/stack/android.png" alt="Android" height="48" />
-  <img src="docs/stack/ios.png"     alt="iOS"     height="48" />
+  <img src="docs/stack/apple.png"     alt="Apple"     height="48" />
   <img src="docs/stack/windows.png" alt="Windows" height="48" />
 </p>
 
